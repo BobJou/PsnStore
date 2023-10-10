@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    background-image: url('https://static.vecteezy.com/ti/vetor-gratis/p1/15286168-fundo-abstrato-tecnologia-movimento-velocidade-luz-azul-de-alta-velocidade-efeito-de-luz-movimento-movimento-de-alta-velocidade-futurista-em-fundo-azul-de-alta-tecnologia-vetor.jpg');
+    
+}
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
